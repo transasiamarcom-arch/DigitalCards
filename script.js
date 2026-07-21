@@ -27,7 +27,7 @@ fetch("data/employees.json")
     // Employee Details
     document.getElementById("name").innerText = employee.name;
     document.getElementById("designation").innerText = employee.designation;
-    document.getElementById("company").innerText = employee.company;
+    document.getElementById("company").innerText = employee.department;
 
     // Employee Photo
     if(employee.photo){
@@ -49,8 +49,8 @@ fetch("data/employees.json")
 
     // Maps
     document.getElementById("mapBtn").href =
-    "https://www.google.com/maps/search/?api=1&query=" +
-    encodeURIComponent(employee.address);
+"https://www.google.com/maps/search/?api=1&query=" +
+encodeURIComponent(employee.office);
 
     // Save Contact
     document.getElementById("saveBtn").href =
