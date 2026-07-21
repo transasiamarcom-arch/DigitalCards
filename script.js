@@ -27,7 +27,7 @@ fetch("data/employees.json")
     // Employee Details
     document.getElementById("name").innerText = employee.name;
     document.getElementById("designation").innerText = employee.designation;
-    document.getElementById("company").innerText = employee.department;
+    document.getElementById("department").innerText = employee.department;
 
     // Employee Photo
     if(employee.photo){
