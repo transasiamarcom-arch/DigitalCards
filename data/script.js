@@ -30,10 +30,10 @@ fetch("data/employees.json")
     document.getElementById("company").innerText = employee.company;
 
     // Employee Photo
-    if(employee.photo){
-        document.getElementById("photo").src =
-        "assets/employees/" + employee.photo;
-    }
+    //if(employee.photo){
+        //document.getElementById("photo").src =
+        //"assets/employees/" + employee.photo;
+    //}
 
     // Call Button
     document.getElementById("callBtn").href =
