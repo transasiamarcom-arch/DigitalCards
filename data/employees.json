@@ -1,0 +1,57 @@
+[
+    {
+        "id": "EMP001",
+        "photo": "",
+        "name": "Priya Sharma",
+        "designation": "Regional Sales Manager",
+        "department": "Sales",
+        "phone": "+91 98200 11223",
+        "email": "priya.sharma@transasia.co.in",
+        "office": "Mumbai, Maharashtra",
+        "linkedin": "https://linkedin.com/in/priyasharma"
+    },
+    {
+        "id": "EMP002",
+        "photo": "",
+        "name": "Arjun Mehta",
+        "designation": "Application Specialist",
+        "department": "Technical Support",
+        "phone": "+91 98220 33445",
+        "email": "arjun.mehta@transasia.co.in",
+        "office": "Pune, Maharashtra",
+        "linkedin": ""
+    },
+    {
+        "id": "EMP003",
+        "photo": "",
+        "name": "Sneha Reddy",
+        "designation": "Territory Manager",
+        "department": "Sales",
+        "phone": "+91 90040 55667",
+        "email": "sneha.reddy@transasia.co.in",
+        "office": "Hyderabad, Telangana",
+        "linkedin": "https://linkedin.com/in/snehareddy"
+    },
+    {
+        "id": "EMP004",
+        "photo": "",
+        "name": "Rohan Kulkarni",
+        "designation": "Service Engineer",
+        "department": "Customer Service",
+        "phone": "+91 97650 77889",
+        "email": "rohan.kulkarni@transasia.co.in",
+        "office": "Bengaluru, Karnataka",
+        "linkedin": ""
+    },
+    {
+        "id": "EMP005",
+        "photo": "",
+        "name": "Kavita Nair",
+        "designation": "Key Account Manager",
+        "department": "Institutional Sales",
+        "phone": "+91 98330 99001",
+        "email": "kavita.nair@transasia.co.in",
+        "office": "New Delhi, Delhi",
+        "linkedin": "https://linkedin.com/in/kavitanair"
+    }
+]
