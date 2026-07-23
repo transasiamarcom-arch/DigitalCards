@@ -16,12 +16,13 @@ body{
 
 .header{
     background:linear-gradient(135deg,#00A6B6,#000000);
-    padding:25px;
+    padding:45px 25px;
 }
-
+   
 #logo{
-    width:320px;
-    max-width:100%;
+     width:90%;
+    max-width:320px;
+    height:auto;
 }
 
 #photo{
@@ -42,7 +43,7 @@ body{
     font-size:18px;
 }
 
-#company{
+#department{
     color:#888;
     font-size:15px;
 }
